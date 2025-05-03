@@ -8,9 +8,6 @@
 
 ZeroByte (ZByte) is a collaborative organization focused on the development of cutting-edge tools, scripts, and resources for programming, penetration testing, and cybersecurity. We aim to create a modular and extensible ecosystem of projects that assist security professionals, developers, and researchers in solving complex challenges related to software development and digital security.
 
-## About ZeroByte
-ZeroByte (ZByte) is dedicated to providing high-quality and reliable tools designed for security professionals, developers, and researchers. Our goal is to simplify and optimize tasks ranging from penetration testing to software development.
-
 ### Our Focus Areas
 Penetration Testing: Tools and frameworks for vulnerability scanning, exploitation, and security audits.
 
