@@ -39,4 +39,4 @@ Follow us and stay up-to-date with our latest releases and updates:
 
 `GitHub:` [ZeroByte Organization](https://github.com/zbyteofficial)
 `Email:` zerobytedep@gmail.com
-`About Us:` [Click here to read something about us](https://github.com/zbyteofficial/zbyteofficial/about.md)
+`About Us:` [Click here to read something about us](https://github.com/zbyteofficial/zbyteofficial/blob/main/about.md)
