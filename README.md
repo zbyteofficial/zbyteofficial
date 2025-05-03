@@ -1,6 +1,6 @@
 <div align="center">
     <h1>ZeroByte</h1>
-    <h3>Official (Zbyte) Organization</h3>
+    <h3>Official Zerobyte Github Profile</h3>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=zbyteofficial&label=Profile%20views&color=0e75b6&style=flat" alt="zerobyte" /> </p>
 </div>
 <hr>
