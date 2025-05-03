@@ -20,21 +20,6 @@ Penetration Testing: Tools and frameworks for vulnerability scanning, exploitati
 
 - Security Auditing: Systems and applications auditing tools to identify and mitigate potential vulnerabilities.
 
-## Key Principles
-- Innovation: We actively research and develop new tools and techniques to stay ahead in the world of cybersecurity.
-
-- Modularity: Our tools are designed to be modular, allowing developers to easily integrate and extend functionality.
-
-- Community: We foster an open and collaborative environment where contributions from developers and security experts are highly encouraged.
-
-### Our Projects
-As part of the ZeroByte organization, we maintain a diverse range of projects that are central to our mission. These include but are not limited to:
-
-- `Pentesting Frameworks:` Comprehensive frameworks for automating and enhancing penetration testing processes.
-- `Security Tools:` Specialized tools for vulnerability scanning, password cracking, network penetration, and more.
-- `Automation Scripts:` A wide variety of scripts to automate tasks related to security testing, system administration, and software development.
-- `Exploit Development Resources:` Documentation, code samples, and tutorials for building and understanding exploits.
-
 ## Getting Involved
 We encourage contributions from developers, security experts, and researchers to help us improve our tools and expand our projects. Whether you are interested in creating new features, fixing bugs, or simply providing feedback, there are many ways to contribute:
 
