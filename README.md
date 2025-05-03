@@ -7,16 +7,14 @@
 
 # Welcome to ZeroByte (ZByte)
 
-ZeroByte (ZByte) is a collaborative organization focused on the development of cutting-edge tools, scripts, and resources for programming, penetration testing, and cybersecurity. We aim to create a modular and extensible ecosystem of projects that assist security professionals, developers, and researchers in solving complex challenges related to software development and digital security.
+**ZeroByte (ZByte)** is a collaborative organization focused on the development of cutting-edge tools, scripts, and resources for programming, penetration testing, and cybersecurity. We aim to create a modular and extensible ecosystem of projects that assist security professionals, developers, and researchers in solving complex challenges related to software development and digital security.
 
 ### Our Focus Areas
 Penetration Testing: Tools and frameworks for vulnerability scanning, exploitation, and security audits.
 
-- Programming Utilities: A collection of utilities to automate common programming tasks, improve productivity, and streamline development processes.
-
-- Exploit Development: Resources and guidance for creating and understanding security exploits.
-
-- Security Auditing: Systems and applications auditing tools to identify and mitigate potential vulnerabilities.
+- `Programming Utilities:` A collection of utilities to automate common programming tasks, improve productivity, and streamline development processes.
+- `Exploit Development:` Resources and guidance for creating and understanding security exploits.
+- `Security Auditing:` Systems and applications auditing tools to identify and mitigate potential vulnerabilities.
 
 ## Getting Involved
 We encourage contributions from developers, security experts, and researchers to help us improve our tools and expand our projects. Whether you are interested in creating new features, fixing bugs, or simply providing feedback, there are many ways to contribute:
